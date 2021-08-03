@@ -8,3 +8,6 @@ Problems:
 1. Program is too slow
 2. The program sometimes does't work and shows error and I'm not sure why
 3. You cannot get anything other than titles of the video
+
+
+Anyone can use this if they want.
